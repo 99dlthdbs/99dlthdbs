@@ -22,7 +22,9 @@
 <!-- React -->
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black"/>
 </div>
-<br>
+
+<br />
+
 <div style="margin-bottom: 30px">
 <p>💡 used at least once</p>
 <!-- jQuery -->
@@ -42,7 +44,9 @@
 <!-- MariaDB -->
 <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white"> 
 </div>
-<br>
+
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=99dlthdbs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
