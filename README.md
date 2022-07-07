@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&fontColor=fff&height=300&section=header&text=Lee-SoYoon&fontSize=90&animation=fadeIn&fontAlignY=42)
 
 <center>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99dlthdbs%2Fhit-counter&count_bg=%23FF9A9E&title_bg=%23FF9A9E&icon=github.svg&icon_color=%23FAD0C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99dlthdbs%2Fhit-counter&count_bg=%23FF9A9E&title_bg=%23FF9A9E&icon=github.svg&icon_color=%23FAD0C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
+  
 </center>
 
 <div align=center style="margin-bottom: 30px">
