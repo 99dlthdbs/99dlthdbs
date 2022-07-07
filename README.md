@@ -2,12 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F99dlthdbs%2Fhit-counter&count_bg=%23FF9A9E&title_bg=%23FF9A9E&icon=github.svg&icon_color=%23FAD0C4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<center style="margin-bottom: 30px">
-
+<div align=center style="margin-bottom: 30px">
 <p><b> ☁ Blog ☁ </b> </p>
 <!-- tistory blog -->
   <a href="https://programmerplum.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000?style=flat-square&logo=Blogger&logoColor=white"/></a>
-</center>
+</div>
+
 
 <div align=center>
 <p><b> 🛠️ Tech Stack ️🛠️ </b> </p>
