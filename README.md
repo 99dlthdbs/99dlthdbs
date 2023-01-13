@@ -37,7 +37,7 @@
 <br />
 
 <div style="margin-bottom: 30px">
-<p>💡💡 used at least once</p>
+<p>💡 used at least once</p>
 <!-- jQuery -->
 <img alt="jQuery" src ="https://img.shields.io/badge/jQuery-0769AD.svg?&style=for-the-badge&logo=jQuery&logoColor=white"/>
 <!-- C -->
